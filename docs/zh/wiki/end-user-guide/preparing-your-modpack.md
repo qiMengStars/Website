@@ -79,7 +79,7 @@ Universal Tweaks 取代了许多模组，因此这里不再赘述。您可以通
 
 ## MCreator 和 AI 生成的模组
 
-使用 MCreator 制作 1.12.2 模组强烈不推荐使用，无论是什么类型的模组。MCreator 在 1.12.2 已不再正式支持，使用其创建的模组存在严重的问题，例如未优化的代码、硬编码 ID、NBT 数据损坏以及难以调试生成的代码。可以使用 [Crash assistant](https://www.curseforge.com/minecraft/mc-mods/crash-assistant) 或 [MCreatorDetector](https://github.com/darklysteamgear/mcreatorDetector) 来快速找出哪些模组是 MCreator 制作的。
+使用 MCreator 制作的 1.12.2 模组强烈不推荐使用，无论是什么类型的模组。MCreator 在 1.12.2 已不再正式支持，使用其创建的模组存在严重的问题，例如未优化的代码、硬编码 ID、NBT 数据损坏以及难以调试生成的代码。可以使用 [Crash assistant](https://www.curseforge.com/minecraft/mc-mods/crash-assistant) 或 [MCreatorDetector](https://github.com/darklysteamgear/mcreatorDetector) 来快速找出哪些模组是 MCreator 制作的。
 
 完全使用 AI 生成的代码（而非作为学习工具）创建的模组也强烈不推荐使用，其代码质量参差不齐（通常较差），且容易出现崩溃或毫无作用，尤其是性能优化相关的模组。
 
